@@ -21,8 +21,8 @@ Second, you should some how tell your IDE that this directory belongs to your pr
   1. Admin
   2. User
   
-  Admin can define movies for the cinema and delete them if those movies are not in cinema's show plan.
-  He can also define the general cinema policy. Here are some of the system features and factors that admin can change:
+  Admin can define movies for the cinema and delete them if those movies are not in cinema's showing plan.
+  He can also define the essential cinema policies. Here I described some of the system features and different factors that admin can     change:
   
   1. The number of salons of cinema(e.g. 4)
   2. The number of show times that admin wants to have in every SALON each WEEK(e.g. 20 show times for ALL of the salons for this week)
